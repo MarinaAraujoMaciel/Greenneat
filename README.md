@@ -365,6 +365,10 @@ https://www.youtube.com/watch?v=GK2BFtIIxo0
   </tr>
 </table>
 </br>
+
+
+- Diagrama de Atividades
+
  
  ### Sprint 1</a> - 04/09 - 24/09</p>
  > <p>:white_check_mark: Design e identidade visual </p>
@@ -438,7 +442,7 @@ https://www.youtube.com/watch?v=GK2BFtIIxo0
 
 # Modelo de dados
   
-<img src = "https://github.com/TechForce-ADS/imagens/blob/main/InicioModelagem.jpeg"/> 
+<img src = "https://github.com/TechForce-ADS/imagens/blob/main/ImagensGreenneat/Modelagem%20de%20Dados%20Green.jpeg"/> 
 
 
 # Sprint
